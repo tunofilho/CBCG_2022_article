@@ -3,7 +3,7 @@ Dados e metadados do artigo apresentado no CBCG_2022 - Curitiba,PR - Brazil, 202
 
 
 
-# Link dataset ISPRS Potsdam
+# Link original Dataset ISPRS Potsdam
 https://www.isprs.org/education/benchmarks/UrbanSemLab/Default.aspx
 
 
